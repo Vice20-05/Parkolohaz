@@ -120,3 +120,7 @@ public class Lakoauto extends Jarmu {
 ```
 
 A `Parkolohaz` osztályhoz nem kell hozzányúlni – csak a menü kap egy új opciót a létrehozáshoz.
+
+## Note
+
+Claude only checked if the folders have README and gitignore and pushed them so all of them are pushed
